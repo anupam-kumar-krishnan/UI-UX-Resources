@@ -20,7 +20,7 @@
 - **Step 5** - Create a PULL Request. And that's all.
 - **NOTE** - Please start the filename with the platform name from the website you have taken like (mobbin.designs)name of UI kit or name it as you wish
 ### What you can contribute in this repo? :punch: 
-- You can contribute some **Learning Resources** related to UI/UX,Web Development,UI design platforms,etc. in the ***Readme.md*** File.
+- You can contribute some ***Learning Resources*** related to UI/UX,Web Development,UI design platforms,etc. in the ***Readme.md*** File.
 
 
 # Let's Contribute :smiley:
