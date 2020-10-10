@@ -919,6 +919,30 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+## YouTube Channels
+
+>YouTube channel that allow you to gain knowledge 
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ----------------------- | ------------------ |
+| [Femke](https://www.youtube.com/channel/UCWUGGwfTfJ0-2jUS3dZqOJA?ref=evernote.design)| A product designer in Toronto, Canada working in tech at Uber |
+| [Jesse Showalter](https://www.youtube.com/channel/UCvBGFeXbBrq3W9_0oNLJREQ?ref=evernote.design)| Digital Design & Web Development videos each week focusing on tools, techniques, projects, and more to help creative people make amazing things |
+| [Maex](https://www.youtube.com/channel/UCSdp5logiFTM3SyLJrHabOQ/featured?ref=evernote.design)| This channel is made by a designer for designers |
+| [AJ&Smart](https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw?ref=evernote.design)| They upload new videos every week about product design, ux design, design sprints and a whole lot more |
+| [Gal Shir](https://www.youtube.com/c/GalShir/?ref=evernote.design)| Digital artist, drawing stuff, sharing my work, and my boring life |
+| [DesignCourse](https://www.youtube.com/user/DesignCourse?ref=evernote.design)|  I've created close to 100 courses from graphic design to advanced frontend development. I've worked with Envato Network's TutsPlus.com, DigitalTutors.com, Pluralsight.com, LinkedIn Learning & Lynda.com |
+| [CharliMarieTV](https://www.youtube.com/user/charlimarieTV?ref=evernote.design)| posting design videos every Saturday about tools, projects, and concepts and vlogs every Tuesday about my life as a designer |
+| [The Futur](https://www.youtube.com/user/TheSkoolRocks?ref=evernote.design)| Our mission is to teach 1 billion people how to make a living doing what they love |
+| [Google Design](https://www.youtube.com/channel/UClKO7be7O9cUGL94PHnAeOA/?ref=evernote.design)| A cooperative effort led by a group of designers, writers, and developers at Google. |
+| [Zimri Mayfield](https://www.youtube.com/channel/UCbqd2YmFeHMwxlj4NcN5zPQ?ref=evernote.design)| Here you'll find adobe Illustrator tutorials, graphic design inspiration, and creative projects |
+| [Hello, I'm Alexa](https://www.youtube.com/channel/UCmypYv02UGldiA8g7j2mCyw?ref=evernote.design)| This channel to help connect people who want to learn more about what a Product Designer does in the Tech industry |
+| [Flux](https://www.youtube.com/channel/UCN7dywl5wDxTu1RM3eJ_h9Q/featured?ref=evernote.design)| Flux is the personal vlog of Ran Segall, a designer and entrepreneur |
+| [Sketch Together](https://www.youtube.com/channel/UCZHkx_OyRXHb1D3XTqOidRw/featured?ref=evernote.design)| A channel dedicated to all things related to User Experience and User Interface design |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Others
 
 >Uncategorized Stuff
