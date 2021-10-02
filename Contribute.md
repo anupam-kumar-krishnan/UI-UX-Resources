@@ -1,4 +1,4 @@
-<h1 align="center"> Hacktoberfest2021 🎉</h1>
+_<h1 align="center"> Hacktoberfest2021 🎉</h1>_
 
 ![hack](https://user-images.githubusercontent.com/42711978/135657354-05005b9f-d686-41a0-8d50-219d57a9be83.png)
 
@@ -19,7 +19,7 @@ This repository is open to all members of the GitHub community. Any member can c
 ***
 
 
-## What is Hacktoberfest?
+## _What is Hacktoberfest?_
 
 It is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
 
@@ -29,7 +29,7 @@ It is open to everyone in our global community. Whether you’re a developer, st
 - You can sign up anytime between October 1 and October 31.
 ***
 
-# 👕 Why Should I Contribute?
+# 👕 _Why Should I Contribute?_
 Hacktoberfest has a simple and plain motto
 > Support open source with meaningful PRs and earn a limited edition T-shirt!
 
@@ -40,15 +40,15 @@ Working with open source project is a rewarding experience that allows you to pr
 * Scripts to be added in there respective folder with proper doumentaion.
 ***
 
-### Let's Contribute :+1:
+### _Let's Contribute :+1:_
 - **Step 1** - Fork this repository.
 - **Step 2** - Clone the repository to your local machine.
 - **Step 3** - Resolve the bugs, mentions provided in the Issues section of the repository. *Also add a description of what changes you have done*.
 - **Step 4** - Add the changes to your repository.
 - **Step 5** - Create a PULL Request. And that's all.
 - **NOTE** - Please start the filename with the platform name from the website you have taken like (mobbin.designs)name of UI kit or name it as you wish
-### What you can contribute in this repo? :punch: 
+### _What you can contribute in this repo? :punch:_ 
 - You can contribute some ***Learning Resources*** related to UI/UX,Web Development,UI design platforms,etc. in the ***Readme.md*** File.
 
 
-# Let's Contribute :smiley:
+# _Let's Contribute :smiley:_
