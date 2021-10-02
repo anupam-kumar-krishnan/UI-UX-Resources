@@ -1,15 +1,11 @@
-# HacktoberFest 2020 :fire:
+# HacktoberFest 2021 :fire:
 
-<p align="center">
-    <a href="https://hacktoberfest.digitalocean.com/">
-        <img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/Logo.svg" width="30%">
-    </a>
-</p>
+ ![of9b6i02ifmdq5zlbmkz](https://user-images.githubusercontent.com/69143883/135708759-82a87e11-0b0f-41f8-9288-32ab49b4a54a.jpg)
 
 
 - HacktoberFest is back again. Showcase your Desigining skills by creating PRs and contributing to the Open Source.
 
-#### [hacktoberfest 2020](https://hacktoberfest.digitalocean.com/)
+#### [hacktoberfest 2021](https://hacktoberfest.digitalocean.com/)
 
 
 ### Let's Contribute :+1:
