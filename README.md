@@ -1,9 +1,9 @@
-# UI-UX Design Resources And Many More
+# _UI-UX Design Resources And Many More_
 ![headerimage](https://user-images.githubusercontent.com/69143883/94293824-858f2580-ff7c-11ea-935a-4c586a4e236e.png)
 
-## If you want to contribute then visit <strong>[Contribute.md](https://github.com/anupam-kumar-krishnan/UI-UX-Resources/blob/master/Contribute.md)</strong>
+# _If you want to contribute then visit <strong>[Contribute.md](https://github.com/anupam-kumar-krishnan/UI-UX-Resources/blob/master/Contribute.md)</strong>_
 
-## Table of Contents
+## _Table of Contents_
 
 - [UI Graphics](#ui-graphics)
 - [Fonts](#fonts)
@@ -34,7 +34,7 @@
 - [Youtube](#YouTube-Channels)
 - [Others](#others)
 
-## UI Graphics
+## _UI Graphics_
 
 >Websites and resources with modern UI components in different formats such as PSD, Sketch, Figma, etc. They are great for ideas for web components/UI
 
@@ -73,7 +73,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Fonts
+## _Fonts_
 
 >Websites that offer free fonts as well as font based tools
 
@@ -112,7 +112,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Colors
+## _Colors_
 
 >Websites and resources that help with choices related to colors
 
@@ -170,7 +170,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Icons
+## _Icons_
 
 >Resources for Icons including png, svg and more
 
@@ -222,7 +222,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Favicons
+## _Favicons_
 
 >Resources for Favicons
 
@@ -238,7 +238,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Icon Fonts
+## _Icon Fonts_
 
 >Resources for Icon Fonts
 
@@ -270,7 +270,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Stock Photos
+## _Stock Photos_
 
 >Websites that offer free stock photos of all kinds for your websites and apps
 
@@ -313,7 +313,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Stock Videos
+## _Stock Videos_
 
 >Websites that offer free stock videos of all kinds for your websites and apps
 
@@ -350,7 +350,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Vectors & Clip Art
+## _Vectors & Clip Art_
 
 >Free vectors, clipart, illustrations, patterns and more
 
@@ -382,7 +382,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Product & Image Mockups
+## _Product & Image Mockups_
 
 >Create mockups of devices and other products
 
@@ -404,7 +404,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## HTML & CSS Templates
+## _HTML & CSS Templates_
 
 >Websites that offer free beautiful website templates and themes of all types
 
@@ -487,7 +487,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## CSS Animations
+## _CSS Animations_
 
 >CSS animations to build awesome animations for websites and applications
 
@@ -514,7 +514,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Javascript Animation Libraries
+## _Javascript Animation Libraries_
 
 >javascript animations libraries to build awesome animations for websites and applications
 
@@ -581,7 +581,7 @@
 </div>
 
 
-## React UI
+## _React UI_
 
 >UI and component libraries for the React JavaScript framework
 
@@ -629,7 +629,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Vue UI
+## _Vue UI_
 
 >UI and component libraries for the Vue JavaScript framework
 
@@ -659,7 +659,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Angular UI
+## _Angular UI_
 
 >UI and component libraries for the Angular JavaScript framework
 
@@ -697,7 +697,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Design Systems & Style Guides
+## _Design Systems & Style Guide_s
 
 >Design systems, style guides, toolkits, docs. Some of these are design guides for top companies/websites
 
@@ -741,7 +741,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Online Design Tools
+## _Online Design Tools_
 
 >All kinds of online tools for design, from photo editors to wireframing, and more
 
@@ -801,7 +801,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Downloadable Design Software
+## _Downloadable Design Software_
 
 >Free software for UI, photo, 3d modeling, etc. Alternatives to paid software like Photoshop
 
@@ -827,7 +827,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Design Inspiration
+## _Design Inspiration_
 
 >Here are some websites to get inspiration for design and UI
 
@@ -867,7 +867,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Image Compression
+## _Image Compression_
 
 >Websites that allow you to compress large images
 
@@ -922,7 +922,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## YouTube Channels
+## _YouTube Channels_
 
 >YouTube channel that allow you to gain knowledge 
 
