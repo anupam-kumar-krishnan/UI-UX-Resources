@@ -19,10 +19,26 @@ This repository is open to all members of the GitHub community. Any member can c
 ***
 
 
-- HacktoberFest is back again. Showcase your Desigining skills by creating PRs and contributing to the Open Source.
+## What is Hacktoberfest?
 
-#### [hacktoberfest 2021](https://hacktoberfest.digitalocean.com/)
+It is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
 
+- Hacktoberfest is a celebration open to everyone in our global community.
+- Pull requests can be made in any folder.
+- Any code is accepted in any language
+- You can sign up anytime between October 1 and October 31.
+***
+
+# 👕 Why Should I Contribute?
+Hacktoberfest has a simple and plain motto
+> Support open source with meaningful PRs and earn a limited edition T-shirt!
+
+So, yes! You can win a T-Shirt and few awesome stickers to attach on your laptop. On plus side, you will get into beautiful world of open source.<br>
+Working with open source project is a rewarding experience that allows you to practice your talent, collaborate with and learn from others, and give back to the developer community. 
+### NOTE:
+* making four (4) meaningful contributions to open source projects will qualify you for prizes
+* Scripts to be added in there respective folder with proper doumentaion.
+***
 
 ### Let's Contribute :+1:
 - **Step 1** - Fork this repository.
