@@ -941,6 +941,7 @@
 | [Hello, I'm Alexa](https://www.youtube.com/channel/UCmypYv02UGldiA8g7j2mCyw?ref=evernote.design)| This channel to help connect people who want to learn more about what a Product Designer does in the Tech industry |
 | [Flux](https://www.youtube.com/channel/UCN7dywl5wDxTu1RM3eJ_h9Q/featured?ref=evernote.design)| Flux is the personal vlog of Ran Segall, a designer and entrepreneur |
 | [Sketch Together](https://www.youtube.com/channel/UCZHkx_OyRXHb1D3XTqOidRw/featured?ref=evernote.design)| A channel dedicated to all things related to User Experience and User Interface design |
+| [Codevolution](https://www.youtube.com/c/Codevolution/featured)| This is the amazing channel where you can learn about Various trending technologies like React, Redux, Next.js, Angular and many more. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
