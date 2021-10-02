@@ -1,6 +1,8 @@
 # UI-UX Design Resources And Many More
 ![headerimage](https://user-images.githubusercontent.com/69143883/94293824-858f2580-ff7c-11ea-935a-4c586a4e236e.png)
 
+## If you want to contribute then visit <strong>[Contribute.md](https://github.com/anupam-kumar-krishnan/UI-UX-Resources/blob/master/Contribute.md)</strong>
+
 ## Table of Contents
 
 - [UI Graphics](#ui-graphics)
