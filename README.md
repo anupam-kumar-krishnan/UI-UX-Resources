@@ -31,6 +31,7 @@
 - [Design Inspiration](#Design-inspiration)
 - [Image Compression](#Image-compression)
 - [Chrome Extensions](#Chrome-extensions)
+- [Youtube](#YouTube-Channels)
 - [Others](#others)
 
 ## UI Graphics
