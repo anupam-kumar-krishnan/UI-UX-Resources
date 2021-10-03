@@ -5,34 +5,37 @@
 
 ## _Table of Contents_
 
-- [UI Graphics](#ui-graphics)
-- [Fonts](#fonts)
-- [Colors](#colors)
-- [Icons](#icons)
-- [Favicons](#favicons)
-- [Icon Fonts](#icon-fonts)
-- [Stock Photos](#stock-photos)
-- [Stock Videos](#stock-videos)
-- [Stock Music & Sound Effects](#stock-music--sound-effects)
-- [Vectors & Clipart](#vectors--clip-art)
-- [Product & Image Mockups](#product--image-mockups)
-- [HTML & CSS Templates](#html--css-templates)
-- [CSS Frameworks](#css-frameworks)
-- [CSS Animations](#css-Animations)
-- [Javascript Animations](#javascript-animation-libraries)
-- [UI Components & Kits](#ui-components--kits)
-- [React UI Libraries](#react-ui)
-- [Vue UI Libraries](#vue-ui)
-- [Angular UI Libraries](#angular-ui)
-- [Svelte UI Libraries](#svelte-ui)
-- [Design Systems & Style Guides](#design-systems--style-guides)
-- [Online Design Tools](#online-design-tools)
-- [Downloadable Design Software](#downloadable-design-software)
-- [Design Inspiration](#Design-inspiration)
-- [Image Compression](#Image-compression)
-- [Chrome Extensions](#Chrome-extensions)
-- [Youtube](#YouTube-Channels)
-- [Others](#others)
+- [_UI-UX Design Resources And Many More_](#ui-ux-design-resources-and-many-more)
+- [_If you want to contribute then visit <strong>Contribute.md</strong>_](#if-you-want-to-contribute-then-visit-contributemd)
+  - [_Table of Contents_](#table-of-contents)
+  - [_UI Graphics_](#ui-graphics)
+  - [_Fonts_](#fonts)
+  - [_Colors_](#colors)
+  - [_Icons_](#icons)
+  - [_Favicons_](#favicons)
+  - [_Icon Fonts_](#icon-fonts)
+  - [_Stock Photos_](#stock-photos)
+  - [_Stock Videos_](#stock-videos)
+  - [Stock Music & Sound Effects](#stock-music--sound-effects)
+  - [_Vectors & Clip Art_](#vectors--clip-art)
+  - [_Product & Image Mockups_](#product--image-mockups)
+  - [_HTML & CSS Templates_](#html--css-templates)
+  - [CSS Frameworks](#css-frameworks)
+  - [_CSS Animations_](#css-animations)
+  - [_Javascript Animation Libraries_](#javascript-animation-libraries)
+  - [UI Components & Kits](#ui-components--kits)
+  - [_React UI_](#react-ui)
+  - [_Vue UI_](#vue-ui)
+  - [_Angular UI_](#angular-ui)
+  - [Svelte UI](#svelte-ui)
+  - [_Design Systems & Style Guide_s](#_design-systems--style-guide_s)
+  - [_Online Design Tools_](#online-design-tools)
+  - [_Downloadable Design Software_](#downloadable-design-software)
+  - [_Design Inspiration_](#design-inspiration)
+  - [_Image Compression_](#image-compression)
+  - [Chrome Extensions](#chrome-extensions)
+  - [_YouTube Channels_](#youtube-channels)
+  - [Others](#others)
 
 ## _UI Graphics_
 
@@ -943,6 +946,7 @@
 | [Sketch Together](https://www.youtube.com/channel/UCZHkx_OyRXHb1D3XTqOidRw/featured?ref=evernote.design)| A channel dedicated to all things related to User Experience and User Interface design |
 | [Codevolution](https://www.youtube.com/c/Codevolution/featured)| This is the amazing channel where you can learn about Various trending technologies like React, Redux, Next.js, Angular and many more. |
 | [Codedamn](https://www.youtube.com/c/codedamn)| This channel Provide Quality content on npm tutorial and react js tutorial. |
+| [Will Paterson](https://www.youtube.com/c/breakdesignsco) | It will take you through the Graphic Design Career, giving you an in depth and personal perspective of working within Graphic Design. 
 
 
 
