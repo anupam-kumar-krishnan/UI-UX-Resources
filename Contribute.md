@@ -25,7 +25,6 @@ It is open to everyone in our global community. Whether you’re a developer, st
 
 - Hacktoberfest is a celebration open to everyone in our global community.
 - Pull requests can be made in any folder.
-- Any code is accepted in any language
 - You can sign up anytime between October 1 and October 31.
 ***
 
