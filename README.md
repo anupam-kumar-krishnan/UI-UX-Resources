@@ -4,9 +4,6 @@
 # _If you want to contribute then visit <strong>[Contribute.md](https://github.com/anupam-kumar-krishnan/UI-UX-Resources/blob/master/Contribute.md)</strong>_
 
 ## _Table of Contents_
-
-- [_UI-UX Design Resources And Many More_](#ui-ux-design-resources-and-many-more)
-- [_If you want to contribute then visit <strong>Contribute.md</strong>_](#if-you-want-to-contribute-then-visit-contributemd)
   - [_Table of Contents_](#table-of-contents)
   - [_UI Graphics_](#ui-graphics)
   - [_Fonts_](#fonts)
