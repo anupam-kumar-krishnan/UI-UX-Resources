@@ -1,7 +1,7 @@
-# _UI-UX Design Resources And Many More_
+# _UI-UX Design Resources And Many More_🖌🎨
 ![headerimage](https://user-images.githubusercontent.com/69143883/94293824-858f2580-ff7c-11ea-935a-4c586a4e236e.png)
 
-# _If you want to contribute then visit <strong>[Contribute.md](https://github.com/anupam-kumar-krishnan/UI-UX-Resources/blob/master/Contribute.md)</strong>_
+# 📌📌 _If you want to contribute then visit <strong>[Contribute.md](https://github.com/anupam-kumar-krishnan/UI-UX-Resources/blob/master/Contribute.md)</strong>_
 
 ## _Table of Contents_
   - [UI Graphics](#ui-graphics)
@@ -21,10 +21,10 @@
   - [Javascript Animation Libraries](#javascript-animation-libraries)
   - [UI Components & Kits](#ui-components--kits)
   - [React UI](#react-ui)
-  - [Vue UI_](#vue-ui)
+  - [Vue UI](#vue-ui)
   - [Angular UI](#angular-ui)
   - [Svelte UI](#svelte-ui)
-  - [Design Systems & Style Guide_s](#_design-systems--style-guide_s)
+  - [Design Systems & Style Guides](#_design-systems--style-guide_s)
   - [Online Design Tools](#online-design-tools)
   - [Downloadable Design Software](#downloadable-design-software)
   - [Design Inspiration](#design-inspiration)
