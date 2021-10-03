@@ -45,6 +45,7 @@ Working with open source project is a rewarding experience that allows you to pr
 - **Step 3** - Resolve the bugs, mentions provided in the Issues section of the repository. *Also add a description of what changes you have done*.
 - **Step 4** - Add the changes to your repository.
 - **Step 5** - Create a PULL Request. And that's all.
+- **Step 6** - Also Star this repo🌟
 - **NOTE** - Please start the filename with the platform name from the website you have taken like (mobbin.designs)name of UI kit or name it as you wish
 ### _What you can contribute in this repo? :punch:_ 
 - You can contribute some ***Learning Resources*** related to UI/UX,Web Development,UI design platforms,etc. in the ***Readme.md*** File.
