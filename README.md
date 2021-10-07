@@ -624,7 +624,7 @@
 | [React Spectrum](https://react-spectrum.adobe.com/react-spectrum/index.html) | A React implementation of Spectrum, Adobe’s design system. |
 | [React tsParticles](https://particles.matteobruni.it/)| A lightweight React component for creating particles |
 | [particles-bg](https://github.com/lindelof/particles-bg)| A React particles animation background component |
-
+| [Material Kit React](https://www.codeinwp.com/blog/react-ui-component-libraries-frameworks/) | Created with inspiration from Google’s Material Design, Material Kit React builds a set of elements that put consistency as the main feature |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
