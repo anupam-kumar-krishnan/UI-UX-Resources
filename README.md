@@ -889,6 +889,7 @@
 | [Resizing.app](https://resizing.app/)| Resize Your Images Online |
 | [EZGif](https://ezgif.com/)| Animated GIF maker and Image editor including Image optimization and supports WebP conversion |
 | [OnlinePngtools](https://onlinepngtools.com/resize-png)| Resize png for without losing transparent background. |
+| [Imagify](https://imagify.io/)| Speed up your website with lighter images, Image optimization for everyone. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
