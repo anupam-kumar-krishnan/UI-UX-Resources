@@ -946,7 +946,8 @@
 | [Sketch Together](https://www.youtube.com/channel/UCZHkx_OyRXHb1D3XTqOidRw/featured?ref=evernote.design)| A channel dedicated to all things related to User Experience and User Interface design |
 | [Codevolution](https://www.youtube.com/c/Codevolution/featured)| This is the amazing channel where you can learn about Various trending technologies like React, Redux, Next.js, Angular and many more. |
 | [Codedamn](https://www.youtube.com/c/codedamn)| This channel Provide Quality content on npm tutorial and react js tutorial. |
-| [Will Paterson](https://www.youtube.com/c/breakdesignsco) | It will take you through the Graphic Design Career, giving you an in depth and personal perspective of working within Graphic Design. 
+| [Will Paterson](https://www.youtube.com/c/breakdesignsco) | It will take you through the Graphic Design Career, giving you an in depth and personal perspective of working within Graphic Design. |
+| [LearnCode.academy](https://www.youtube.com/c/learncodeacademy/featured) | This channel will help you gain a good understanding of basic to advanced concepts in HTML, CSS, JavaScript, Responsive Design, React.js, Angular and many more. |
 
 
 
