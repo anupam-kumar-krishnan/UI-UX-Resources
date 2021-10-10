@@ -4,34 +4,34 @@
 # 📌 _If you want to contribute then visit <strong>[Contribute.md](https://github.com/anupam-kumar-krishnan/UI-UX-Resources/blob/master/Contribute.md)</strong>_
 
 ## _Table of Contents_ 📕
-  - [UI Graphics](#ui-graphics)
-  - [Fonts](#fonts)
-  - [Colors](#colors)
-  - [Icons](#icons)
-  - [Favicons](#favicons)
-  - [Icon Fonts](#icon-fonts)
-  - [Stock Photos](#stock-photos)
-  - [Stock Videos](#stock-videos)
-  - [Stock Music & Sound Effects](#stock-music--sound-effects)
-  - [Vectors & Clip Art](#vectors--clip-art)
-  - [Product & Image Mockups](#product--image-mockups)
-  - [HTML & CSS Templates](#html--css-templates)
-  - [CSS Frameworks](#css-frameworks)
-  - [CSS Animations](#css-animations)
-  - [Javascript Animation Libraries](#javascript-animation-libraries)
-  - [UI Components & Kits](#ui-components--kits)
-  - [React UI](#react-ui)
-  - [Vue UI](#vue-ui)
-  - [Angular UI](#angular-ui)
-  - [Svelte UI](#svelte-ui)
-  - [Design Systems & Style Guides](#_design-systems--style-guide_s)
-  - [Online Design Tools](#online-design-tools)
-  - [Downloadable Design Software](#downloadable-design-software)
-  - [Design Inspiration](#design-inspiration)
-  - [Image Compression](#image-compression)
-  - [Chrome Extensions](#chrome-extensions)
-  - [YouTube Channels](#youtube-channels)
-  - [Others](#others)
+  - _[UI Graphics](#ui-graphics)_
+  - _[Fonts](#fonts)_
+  - _[Colors](#colors)_
+  - _[Icons](#icons)_
+  - _[Favicons](#favicons)_
+  - _[Icon Fonts](#icon-fonts)_
+  - _[Stock Photos](#stock-photos)_
+  - _[Stock Videos](#stock-videos)_
+  - _[Stock Music & Sound Effects](#stock-music--sound-effects)_
+  - _[Vectors & Clip Art](#vectors--clip-art)_
+  - _[Product & Image Mockups](#product--image-mockups)_
+  - _[HTML & CSS Templates](#html--css-templates)_
+  - _[CSS Frameworks](#css-frameworks)_
+  - _[CSS Animations](#css-animations)_
+  - _[Javascript Animation Libraries](#javascript-animation-libraries)_
+  - _[UI Components & Kits](#ui-components--kits)_
+  - _[React UI](#react-ui)_
+  - _[Vue UI](#vue-ui)_
+  - _[Angular UI](#angular-ui)_
+  - _[Svelte UI](#svelte-ui)_
+  - _[Design Systems & Style Guides](#_design-systems--style-guide_s)_
+  - _[Online Design Tools](#online-design-tools)_
+  - _[Downloadable Design Software](#downloadable-design-software)_
+  - _[Design Inspiration](#design-inspiration)_
+  - _[Image Compression](#image-compression)_
+  - _[Chrome Extensions](#chrome-extensions)_
+  - _[YouTube Channels](#youtube-channels)_
+  - _[Others](#others)_
 
 ## _UI Graphics_
 
