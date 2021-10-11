@@ -3,7 +3,7 @@
 
 # 📌 _If you want to contribute then visit <strong>[Contribute.md](https://github.com/anupam-kumar-krishnan/UI-UX-Resources/blob/master/Contribute.md)</strong>_
 
-## _Table of Contents_ 📕
+## Table of Content
   - _[UI Graphics](#ui-graphics)_
   - _[Fonts](#fonts)_
   - _[Colors](#colors)_
