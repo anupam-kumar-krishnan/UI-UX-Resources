@@ -948,6 +948,7 @@
 | [Codedamn](https://www.youtube.com/c/codedamn)| This channel Provide Quality content on npm tutorial and react js tutorial. |
 | [Will Paterson](https://www.youtube.com/c/breakdesignsco) | It will take you through the Graphic Design Career, giving you an in depth and personal perspective of working within Graphic Design. |
 | [LearnCode.academy](https://www.youtube.com/c/learncodeacademy/featured) | This channel will help you gain a good understanding of basic to advanced concepts in HTML, CSS, JavaScript, Responsive Design, React.js, Angular and many more. |
+| [Getting Basics](https://www.youtube.com/c/StephenSimon) | This channel will help you gain a good understanding of basic to subjective concepts in HTML, CSS, JavaScript, Responsive Design, React.js, Angular and many more. |
 
 
 
