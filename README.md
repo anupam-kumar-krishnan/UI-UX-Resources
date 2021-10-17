@@ -63,6 +63,7 @@
 | [Storytale.io](https://storytale.io/freebies/) | Subset of Storytale free quality illustrations |
 | [icons8.com/illustrations](https://icons8.com/illustrations) | Free vector illustrations to class up your project |
 | [Patternico](https://patternico.com) | Seamless Pattern Maker |
+| [Glaze](https://www.glazestock.com/browse/) | Site for Browse Illustrations |
 | [Freellustrations](https://freellustrations.com/) | Free Background Images for awesome landing Pages |
 | [Pixeltrue Illustrations](https://www.pixeltrue.com/illustrations) | Free Animated Illustrations |
 | [Abstract User Avatar API](https://www.abstractapi.com/user-avatar-api) | API to create simple yet flexible user avatars from user names or emails |
