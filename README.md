@@ -343,6 +343,7 @@
 | [Bensound](https://www.bensound.com/)| Download Royalty Free Music for free and use it in your project |
 | [Mixkit](https://mixkit.co/free-stock-music/)| Free music for your projects |
 | [Freesound](https://freesound.org/)| Free stock music and sounds |
+| [Orange Free Sounds](https://orangefreesounds.com/)| Free Sound Effects, Music, Loops, Beats, Ringtones |
 | [Free Music Archive](https://freemusicarchive.org/)|  Collaborative database of creative-commons licensed sound for musicians and sound lovers  |
 | [Musopen](https://musopen.org/music/)| An online copyright free classical music library |
 | [Unminus](https://www.unminus.com/)| Free Premium Music for Your Projects 🎁 Royalty Free. Cleared for YouTube. |
@@ -798,6 +799,9 @@
 | [Draw.io](https://www.draw.io/) | Free online diagram editor tool |
 | [UXWing SVG Editor](https://uxwing.com/svg-icon-editor)| Creating and Edit SVG Online |
 | [CSS Arrow](http://www.cssarrowplease.com/)| Create and export CSS code for a custom box with an arrow extending out from the side. Great for tooltips, flyouts and the like. |
+| [Simple Image Resizer](http://www.simpleimageresizer.com/) | Simple Image Resizer, resize online images without losing quality |
+| [Aspect Ratio Calculator](https://andrew.hedges.name/experiments/aspect_ratio/) | Simple and easy way of calculating aspect ratios for resizing your images or videos |
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -863,6 +867,7 @@
 | [Mulzli Search](https://search.muz.li) | Search engine for design inspiration |
 | [DeviantArt](https://www.deviantart.com/) | Access to 370 million pieces of art for inspiration. |
 | [Design your way](https://www.designyourway.net/blog/web-and-mobile-design/) | Collection of different Web and Mobile Designs |
+| [Three.js](https://threejs.org/) | Collection of best and award winning websites that were built using three.js JavaScript library |
 
 
 <div align="right">
@@ -921,6 +926,8 @@
 | [Mobile/Responsive Web Design Tester](https://chrome.google.com/webstore/detail/mobileresponsive-web-desi/elmekokodcohlommfikpmojheggnbelo) | Test responsive web designs or mobile pages that detect specific user agents. Test multiple devices at the same time! |
 | [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) | Advanced Eyedropper, Color Picker, Gradient Generator and other colorful goodies |
 | [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) | Utility that uncovers the technologies used on websites. It detects content management systems, ecommerce platforms, web frameworks, server software, analytics tools and many more. |
+| [Grepper](https://chrome.google.com/webstore/detail/grepper/amaaokahonnfjjemodnpmeenfpnnbkco) | The Query & Answer System for the Coder Community. Develop faster, master your code, understand more, grow in your career. |
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -932,6 +939,8 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
+| [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp) | An amazing place where you can learn any programming technology from industry leads for free |
+| [Computerphile](https://www.youtube.com/user/Computerphile) | Videos all about computers and computer stuff. Sister channel of Numberphile. |
 | [Femke](https://www.youtube.com/channel/UCWUGGwfTfJ0-2jUS3dZqOJA?ref=evernote.design)| A product designer in Toronto, Canada working in tech at Uber |
 | [Jesse Showalter](https://www.youtube.com/channel/UCvBGFeXbBrq3W9_0oNLJREQ?ref=evernote.design)| Digital Design & Web Development videos each week focusing on tools, techniques, projects, and more to help creative people make amazing things |
 | [Maex](https://www.youtube.com/channel/UCSdp5logiFTM3SyLJrHabOQ/featured?ref=evernote.design)| This channel is made by a designer for designers |
@@ -951,6 +960,7 @@
 | [LearnCode.academy](https://www.youtube.com/c/learncodeacademy/featured) | This channel will help you gain a good understanding of basic to advanced concepts in HTML, CSS, JavaScript, Responsive Design, React.js, Angular and many more. |
 | [Getting Basics](https://www.youtube.com/c/StephenSimon) | This channel will help you gain a good understanding of basic to subjective concepts in HTML, CSS, JavaScript, Responsive Design, React.js, Angular and many more. |
 | [Develop Skills](https://www.youtube.com/c/techgramacademy)| This is the amazing channel where you can learn about Various trending technologies with basics like Python, AI, Android Development,My SQL, JAVA and many more. |
+| [ProgrammingWithHarry](https://www.youtube.com/c/ProgrammingWithHarry/) | Place where you can learn various concepts related to programming for free. ProgrammingWithHarry is a beginner friendly place for you to start with your coding journey. |
 
 
 
