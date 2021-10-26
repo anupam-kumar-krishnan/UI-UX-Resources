@@ -1,7 +1,7 @@
 # _UI-UX Design Resources And Many More_ 🖌🎨
 ![headerimage](https://user-images.githubusercontent.com/69143883/94293824-858f2580-ff7c-11ea-935a-4c586a4e236e.png)
 
-## Table of Content
+## _[Table of content](#table-of-content)_
   - _[UI Graphics](#ui-graphics)_
   - _[Fonts](#fonts)_
   - _[Colors](#colors)_
