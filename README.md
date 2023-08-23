@@ -1000,7 +1000,7 @@
 | [Gerillass](https://gerillass.com/)                                                                      | Gerillass is a website development tool built on top of Sass with a set of Sass mixins and functions for frontend developers to generate scalable CSS outputs.    |
 | [Sketchize](https://www.sketchize.com/)                                                                  | Sketchize is built for UI/UX Designers to help them design lovely apps for mobile, tablet, and desktop devices.                                                   |
 | [Uxcel](https://uxcel.com/)                                                                              | Interactive platform to learn UI/UX                                                                                                                               |
-| [Uxcel](https://github.com/SanH16)                                                                       | Hello Follow my github                                                                                                                                            |
+| [Uxcel](https://github.com/SanH16/)                                                                      | Hello Follow my github                                                                                                                                            |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
